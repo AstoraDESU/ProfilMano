@@ -1,0 +1,35 @@
+body{
+    background-image:url(./Image/leaves.webp) ;
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+
+header {
+    min-height: 50px;
+    background: lightcyan;
+  }
+
+.judul{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tabel{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+footer {
+    min-height: 50px;
+    background: PapayaWhip;
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+  }
