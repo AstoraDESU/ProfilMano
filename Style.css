@@ -1,0 +1,31 @@
+/* bikin dulu teksnya jadi ke tengah */
+
+body{
+    text-align: center;
+}
+
+/* background */
+body{
+    background-image: url(Mano\ IMG/sakura.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* edit gambar mano */
+
+body .Gambar{
+    width: 150px;
+    height: 150px;
+    border: 5px double black;
+}
+
+/* bagian ciri-ciri */
+body .ciri-ciri{
+    text-align: left;
+}
+body .list{
+    text-align: left;
+}
+
+
